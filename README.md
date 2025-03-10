@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on working with health care systems data
 - 📫 How to reach me ...
 - 😄 Pronouns: Am a he
-- ⚡ Fun fact: with data analysis everything is simple 
+- ⚡ Fun fact: I Love traveling exploring new places and learning new things 
 
 <!---
 JosiahEdidiong3/JosiahEdidiong3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
