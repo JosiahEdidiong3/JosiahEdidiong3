@@ -1,7 +1,7 @@
 - # 👋 Hi, I’m Josiah Edet
 - 👀 I’m interested in solving problems with data
 - 🌱 I’m currently learning data analytics with Dahel Techies
-- 💞️ I’m looking to collaborate on working with health care systems data
+- 💞️ I’m looking to collaborate on working with health care systems data and medical research data
 - 📫 How to reach me ...
 - 😄 Pronouns: Am a he
 - ⚡ Fun fact: I Love traveling exploring new places and learning new things 
